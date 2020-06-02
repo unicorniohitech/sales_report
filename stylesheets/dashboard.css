@@ -1,0 +1,69 @@
+.header {
+  min-height: 50px;
+  background-color: #1bb9f2;
+  display: flex;
+  align-items: center !important;
+  padding: 0 60px;
+}
+
+h1 {
+  margin: 0px;
+  text-align: center;
+  color: #ffffff;
+}
+
+h5 {
+  margin: 0px;
+  text-align: center;
+  color: #ffffff;
+}
+
+body {
+  margin: 0px;
+}
+
+.align-box {
+  width: 70%;
+  margin: 40px auto 0 auto;
+}
+
+.chart-box {
+  min-height: 450px;
+  margin: 40px auto 0 auto;
+}
+
+.first {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  display: flex;
+  width: 4%;
+  justify-content: flex-start !important;
+  align-items: center !important;
+}
+
+.name {
+  display: flex;
+  width: 10%;
+  justify-content: flex-start !important;
+  align-items: center !important;
+}
+
+.padding-header {
+  padding: 10px;
+  color: #ffffff;
+}
+
+.text-header{
+  display: flex;
+  width: 75%;
+  justify-content: center !important;
+}
+
+.filters {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around !important;
+}
